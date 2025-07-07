@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 AetherAI is an advanced deep learning system that utilizes Long Short-Term Memory (LSTM) neural networks for multi-step air quality forecasting. The project focuses on predicting atmospheric conditions, particularly temperature, using historical environmental data through sophisticated time-series analysis.
 
